@@ -1,0 +1,4 @@
+dia = int(input("digite o dia: (1 - 30"))
+mes = int(input('digite o mes:(1-12)'))
+dias_passados = (mes - 1) * 30 + dia
+print (F" ja se passaram {dias passados } dias desde o inicio do ano.")

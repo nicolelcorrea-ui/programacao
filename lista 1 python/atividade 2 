@@ -1,0 +1,3 @@
+cavalos = int(input("digite a quantidade de cavalos"))
+total = cavalos*4
+print (" a quabtidade de ferraduras e ",total)

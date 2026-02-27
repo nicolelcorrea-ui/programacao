@@ -1,0 +1,10 @@
+quantidade_pequenas = int(input("digite a quantidade de camisetas pequenas"))
+quantidade_medias = int(input("digite a quantidade de camisetas medias"))
+quantidade_grandes = int(input("digite a quantidade de camisetas grandes"))
+valor_pequena= quantidade_pequenas * 10
+valor_medias= quantidade_medias *12
+valor_grandes= quantidade_grandes *15
+valor_total= quantidade_pequenas + quantidade_medias + quantidade_grandes
+print (F"valor camiseta pequena: r${valor_pequena:.2f}")
+print (F"valor camiseta media: r${valor_media:.2f}")
+print (F"valor camiseta grande: r${valor_grande:.2f}")  
