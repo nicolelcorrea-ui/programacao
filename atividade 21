@@ -1,0 +1,6 @@
+lata= float(input("digite quantos ml tem na lata"))
+lata= float(input("digite quantos ml tem na lata"))
+litro= float(input("digite quantos ml tem no litro"))
+print ("VOCÊ COMPROU{LITROS}LITROS DE COCA")
+print("VOCÊ COMPROU{LATAS}LATAS DE COCA")
+

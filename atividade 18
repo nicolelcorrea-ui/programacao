@@ -1,0 +1,10 @@
+leia:float (input("insira o salario do  funcionario"))
+salario:float (input("o salario liquido e: "))
+salario:float (input("o salario bruto e: "))
+15*10
+liquido=bruto
+desconto: float (input("digite o desconto do salario do funcionario"))
+print (f"o salario do funcionario e :")
+print (F"o salario liquido e :")
+print (F"o salario bruto e :")
+print (F"o desconto do salario do funcionario e:")

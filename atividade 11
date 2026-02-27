@@ -1,0 +1,8 @@
+dias_trabalhados = int(input("digite o numero de dias trabalhados sem acidentes"))
+
+anos= dias_trabalhados // 365
+meses= (dias_trabalhados % 365)// 30
+dia= (dias_trabalhados % 365)%30
+
+
+print{F"dias_trabalhados"} dias equivalem {anos} anos, {meses}meses e {dias} dias

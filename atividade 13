@@ -1,0 +1,13 @@
+if imprimir_numero(N)
+if n <0 or n > 999:
+    print ("numero invalido.digite um numero entre 0 e 999")
+    return
+centena = n //100
+dezena = (n % 100)//10
+unidade = n % 10
+
+print (f"centena = {centena}")
+print(F"dezena = {dezena}")
+print(F"unidade = {unidade}")
+num = int(input("digite um nnumero inteiro (ate 3 digitos):"))
+imprimir_numero(num)

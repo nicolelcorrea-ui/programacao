@@ -1,0 +1,6 @@
+valor = float (input("escreva o total de agua em partes"))
+valor = float (input("escreva o total de suco de maracuja em partes:"))
+preço= float (input("digite quantos litros tem de agua "))
+preço= float (input("digite quantos litros tem de  maracuja"))
+litros=partes/litros
+print (" a quantidade de litros colocado e", litros) 

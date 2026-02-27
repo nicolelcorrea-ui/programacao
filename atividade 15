@@ -1,0 +1,14 @@
+total = float(input("digite o valor total da conta"))
+#divide total por 3 
+valor_por_pessoa = total / 3 
+
+# o valor_por_pesso vai virar um inteiro e remover virgula ( ex: 10,56 -> 10)
+carlos = int(valor_por_pessoa)
+andre = int(valor_por_pessoa)
+
+felipe = valor_por_pessoa - (carlos + andre)
+
+
+print ("carlos deve pagar R$ {:.2F}". format (carlos))
+print ("andre deve pagar R$ {:.2F}". format (andre))
+print ("felipe deve pagar R$ {:.2F}". format (felipe))

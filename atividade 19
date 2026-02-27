@@ -1,0 +1,8 @@
+pé_direito= float(input("insira o preço do anel com chip"))
+pé_esquerdo=float(input("insira o preço do anel de alimento "))
+total= float(input("insira o gasto total "))
+anel_com_chip * anel_de_alimento
+print ("o preço do anel  com chip e :")
+print ("o preço do anel de alimento e :")
+print ("o total gasto e:")
+

@@ -1,0 +1,4 @@
+quantidade= float(input("insira a quantidade que precisa"))
+metro= float(input("insira a quantidade de metros que tem"))
+print (" a quantidade total de metros e:", 125)
+print (" a quantidade total que precisa e:",120)
